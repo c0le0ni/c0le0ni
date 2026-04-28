@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://coleoni.com"><img src="https://img.shields.io/badge/Website-coleoni.com-4F8CC9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.instagram.com/c0le0ni"><img src="https://img.shields.io/badge/Instagram-@c0le0ni-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/coleoni.dev"><img src="https://img.shields.io/badge/Instagram-@coleoni.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/c0le0ni"><img src="https://img.shields.io/badge/GitHub-c0le0ni-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
