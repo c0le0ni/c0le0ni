@@ -60,5 +60,5 @@ I'm a full-stack developer and solo founder based in **Brazil**, running [**Cole
 ---
 
 <p align="center">
-  <i>"Build it, ship it, iterate."</i>
+  <i>"Think ahead. Build better."</i>
 </p>
