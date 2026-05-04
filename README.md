@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Coleoni 👋</h1>
-
 <p align="center">
   <strong>Solo Founder @ Coleoni Solutions</strong> · Building SaaS products from zero to deploy
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Spec-Driven+Development+with+Cursor+%26+Claude+Code;Shipping+SaaS%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://coleoni.com"><img src="https://img.shields.io/badge/Website-coleoni.com-4F8CC9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.instagram.com/coleoni.dev"><img src="https://img.shields.io/badge/Instagram-@coleoni.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -18,7 +15,7 @@
 
 ### ✅ About
 
-I'm a full-stack developer and solo founder based in Brazil, building [**Coleoni Solutions**](https://coleoni.com). Focused on shipping SaaS products end-to-end. I design, build, deploy and maintain everything myself, like a full team.
+I'm a full-stack developer and solo founder based in **Brazil**, building [**Coleoni Solutions**](https://coleoni.com). Focused on shipping SaaS products end-to-end. I design, build, deploy and maintain everything myself, like a full team.
 
 - 🛠️ Building production SaaS in TypeScript, Node.js, Next.js & Vue
 - ⚡ Spec-Driven Development (SDD) with Cursor + Claude Code
@@ -49,12 +46,11 @@ I'm a full-stack developer and solo founder based in Brazil, building [**Coleoni
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0le0ni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0le0ni&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c0le0ni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0le0ni&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=c0le0ni&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=c0le0ni&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
