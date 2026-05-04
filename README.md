@@ -18,7 +18,7 @@
 
 ### ✅ About
 
-I'm a full-stack developer and solo founder based in **Brazil**, running [**Coleoni Solutions**](https://coleoni.com) — a one-person software house focused on shipping SaaS products end-to-end. I design, build, deploy and maintain everything myself, leveraging AI-assisted development to move fast without breaking things (too often).
+I'm a full-stack developer and solo founder based in Brazil, building [**Coleoni Solutions**](https://coleoni.com). Focused on shipping SaaS products end-to-end. I design, build, deploy and maintain everything myself, like a full team.
 
 - 🛠️ Building production SaaS in TypeScript, Node.js, Next.js & Vue
 - ⚡ Spec-Driven Development (SDD) with Cursor + Claude Code
