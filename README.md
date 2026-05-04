@@ -45,12 +45,12 @@ I'm a full-stack developer and solo founder based in **Brazil**, building [**Col
 
 ### 📊 GitHub Stats
 
+<!-- <p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=c0le0ni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=c0le0ni&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+</p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0le0ni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0le0ni&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=c0le0ni&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=c0le0ni&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
