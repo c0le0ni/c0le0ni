@@ -1,5 +1,5 @@
 ### Coleoni
 
-Full-stack dev, Brasil. Building.
+Full-stack dev, Brazil. Building.
 
 coleoni.com
