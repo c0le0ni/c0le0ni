@@ -12,20 +12,20 @@ Right now most of my time goes to LLM agents, multi-agent orchestration and auto
 <thead>
 <tr>
 <th align="left">Project</th>
-<th align="left" width="48%">What it is</th>
-<th align="left" width="30%">Stack</th>
+<th align="left" width="45%">What it is</th>
+<th align="left" width="34%">Stack</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td nowrap><img src="assets/projects/wcheck.png" width="22" align="center">&nbsp;<b><a href="https://wcheckbrasil.com.br">W Check Brasil</a></b></td>
 <td>Vehicle lookup and credit analysis platform, 13k+ clients</td>
-<td><kbd>Next.js</kbd> <kbd>NestJS</kbd> <kbd>PostgreSQL</kbd> <kbd>AWS</kbd></td>
+<td><kbd>Next.js</kbd> <kbd>NestJS</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>AWS</kbd></td>
 </tr>
 <tr>
 <td nowrap><img src="assets/projects/trimos.png" width="22" align="center">&nbsp;<b><a href="https://trimos.app">TrimOS</a></b></td>
 <td>Management SaaS for barbershops: schedule, clients, services, billing and an AI assistant</td>
-<td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>MySQL</kbd> <kbd>Gemini</kbd></td>
+<td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Express</kbd> <kbd>MySQL</kbd></td>
 </tr>
 </tbody>
 </table>
