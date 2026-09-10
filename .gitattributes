@@ -1,0 +1,4 @@
+# scripts/ e ferramenta pra regerar os assets do README, nao codigo de projeto.
+# Sem isto o GitHub classifica este repo de perfil como "Python" por causa
+# do buttons.py, que e o unico arquivo de codigo aqui.
+scripts/** linguist-vendored
