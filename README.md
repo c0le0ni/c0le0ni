@@ -23,7 +23,7 @@ Right now most of my time goes to LLM agents, multi-agent orchestration and auto
 <td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Express</kbd> <kbd>MySQL</kbd></td>
 </tr>
 <tr>
-<td nowrap><img src="assets/projects/skills.png" width="22" align="center">&nbsp;<b><a href="https://github.com/c0le0ni/skills">Coleoni Skills</a></b></td>
+<td nowrap><img src="assets/projects/skills.png" width="22" align="center">&nbsp;<b><a href="https://skills.coleoni.com">Coleoni Skills</a></b></td>
 <td>Free skills for Claude Code, Codex and other agents, starting with portfolio thumbnails</td>
 <td><kbd>Node.js</kbd> <kbd>Playwright</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd></td>
 </tr>
