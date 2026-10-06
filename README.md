@@ -17,9 +17,15 @@ Right now most of my time goes to LLM agents, multi-agent orchestration and auto
 </tr>
 </thead>
 <tbody>
+<tr>
 <td nowrap><img src="assets/projects/trimos.png" width="22" align="center">&nbsp;<b><a href="https://trimos.app">TrimOS</a></b></td>
 <td>Management SaaS for barbershops: schedule, clients, services, billing and an AI assistant</td>
 <td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Express</kbd> <kbd>MySQL</kbd></td>
+</tr>
+<tr>
+<td nowrap><img src="assets/projects/skills.png" width="22" align="center">&nbsp;<b><a href="https://github.com/c0le0ni/skills">Coleoni Skills</a></b></td>
+<td>Free skills for Claude Code, Codex and other agents, starting with portfolio thumbnails</td>
+<td><kbd>Node.js</kbd> <kbd>Playwright</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd></td>
 </tr>
 </tbody>
 </table>
