@@ -28,6 +28,11 @@ Right now most of my time goes to LLM agents, multi-agent orchestration and auto
 <td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Vite</kbd> <kbd>Tailwind</kbd></td>
 </tr>
 <tr>
+<td nowrap><img src="assets/projects/loaders.png" width="22" align="center">&nbsp;<b><a href="https://loaders.coleoni.com">Loaders</a></b></td>
+<td>27 loading animations for React and plain HTML: pick one, tune it, copy the code</td>
+<td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>CSS</kbd> <kbd>npm</kbd></td>
+</tr>
+<tr>
 <td nowrap><img src="assets/projects/trimos.png" width="22" align="center">&nbsp;<b><a href="https://trimos.app">TrimOS</a></b></td>
 <td>Management SaaS for barbershops: schedule, clients, services, billing and an AI assistant</td>
 <td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Express</kbd> <kbd>MySQL</kbd></td>
