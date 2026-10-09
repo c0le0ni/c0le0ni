@@ -27,6 +27,11 @@ Right now most of my time goes to LLM agents, multi-agent orchestration and auto
 <td>Free skills for Claude Code, Codex and other agents, starting with portfolio thumbnails</td>
 <td><kbd>Node.js</kbd> <kbd>Playwright</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd></td>
 </tr>
+<tr>
+<td nowrap><img src="assets/projects/blob.png" width="22" align="center">&nbsp;<b><a href="https://blob.coleoni.com">Blob Avatar</a></b></td>
+<td>Free animated avatar editor: pick a shape, a face and a few moves, export PNG, GIF or SVG</td>
+<td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Vite</kbd> <kbd>Tailwind</kbd></td>
+</tr>
 </tbody>
 </table>
 
