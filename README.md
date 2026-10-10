@@ -2,9 +2,9 @@
 
 ## About me
 
-I'm an AI engineer and full-stack developer, more architect than code typist. Most of my work happens before the first commit: deciding what actually needs to exist and how the pieces fit together. The typing part I increasingly hand to agents.
+I design and build sites, systems and products end to end: the interface, the code, the server and what happens after launch. One person, the whole way.
 
-Right now most of my time goes to LLM agents, multi-agent orchestration and automation that has to survive real users on the other side.
+Some of it is for clients, some is mine, and some you can use right now.
 
 ## Projects
 
@@ -19,12 +19,12 @@ Right now most of my time goes to LLM agents, multi-agent orchestration and auto
 <tbody>
 <tr>
 <td nowrap><img src="assets/projects/skills.png" width="22" align="center">&nbsp;<b><a href="https://skills.coleoni.com">Skills</a></b></td>
-<td>Free skills for Claude Code, Codex and other agents, starting with portfolio thumbnails</td>
-<td><kbd>Node.js</kbd> <kbd>Playwright</kbd> <kbd>Claude Code</kbd> <kbd>Codex</kbd></td>
+<td>Free skills for Claude Code, Codex, Cursor and Gemini CLI: scopes, portfolio thumbnails, favicons, launch checks and more</td>
+<td><kbd>Node.js</kbd> <kbd>Playwright</kbd> <kbd>SKILL.md</kbd></td>
 </tr>
 <tr>
 <td nowrap><img src="assets/projects/blob.png" width="22" align="center">&nbsp;<b><a href="https://blob.coleoni.com">Blob Avatar</a></b></td>
-<td>Free animated avatar editor: pick a shape, a face and a few moves, export PNG, GIF or SVG</td>
+<td>Free animated avatar editor: pick a shape, a face and a few animations, then export PNG, GIF or SVG, or embed it with one tag</td>
 <td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Vite</kbd> <kbd>Tailwind</kbd></td>
 </tr>
 <tr>
@@ -44,4 +44,4 @@ Right now most of my time goes to LLM agents, multi-agent orchestration and auto
 
 ## Let's talk
 
-<a href="https://coleoni.com"><img alt="coleoni.com" src="assets/buttons/website.png" width="33.33%"></a><a href="mailto:michel@coleoni.com"><img alt="michel@coleoni.com" src="assets/buttons/email.png" width="33.33%"></a><a href="https://instagram.com/coleoni.dev"><img alt="@coleoni.dev" src="assets/buttons/instagram.png" width="33.33%"></a>
+<a href="https://coleoni.com"><img alt="coleoni.com" src="assets/buttons/website.png" width="50%"></a><a href="mailto:michel@coleoni.com"><img alt="michel@coleoni.com" src="assets/buttons/email.png" width="50%"></a><a href="https://instagram.com/coleoni.dev"><img alt="@coleoni.dev" src="assets/buttons/instagram.png" width="50%"></a><a href="https://discord.com/users/366386408299954177"><img alt="Discord" src="assets/buttons/discord.png" width="50%"></a>
