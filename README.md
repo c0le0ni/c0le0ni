@@ -12,8 +12,8 @@ Some of it is for clients, some is mine, and some you can use right now.
 <thead>
 <tr>
 <th align="left">Project</th>
-<th align="left" width="45%">What it is</th>
-<th align="left" width="34%">Stack</th>
+<th align="left" width="43%">What it is</th>
+<th align="left" width="31%">Stack</th>
 </tr>
 </thead>
 <tbody>
