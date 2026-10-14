@@ -14,7 +14,7 @@ Pasta das logos usadas na tabela **Projects** do README do perfil.
 
 ```html
 <tr>
-<td nowrap><img src="assets/projects/NOME.png" width="22" align="center">&nbsp;<b><a href="https://link">Nome</a></b></td>
+<td nowrap><img src="assets/projects/NOME.png" width="22" align="absmiddle">&nbsp;<b><a href="https://link">Nome</a></b></td>
 <td>Descricao de uma linha</td>
 <td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Postgres</kbd></td>
 </tr>
@@ -25,7 +25,7 @@ Pasta das logos usadas na tabela **Projects** do README do perfil.
 Projeto com codigo publico leva a tag verde ao lado do nome, linkando o repositorio. Cole logo depois do `</a></b>` do nome:
 
 ```html
-&nbsp;<a href="https://github.com/c0le0ni/REPO"><img alt="open source" src="assets/projects/open-source.png" width="75" height="18" align="center"></a>
+&nbsp;<a href="https://github.com/c0le0ni/REPO"><img alt="open source" src="assets/projects/open-source.png" width="75" height="18" align="absmiddle"></a>
 ```
 
 A imagem sai de `scripts/badge.py`. Se mudar o texto, rode de novo e ajuste o `width` (o script imprime o tamanho).
@@ -40,6 +40,7 @@ Tabela markdown normal nao deixa controlar quebra de linha. Com uma logo pequena
 |:--|:--|:--|
 | Tamanho do arquivo | 256x256 px | Nitido em tela Retina mesmo exibido a 22px |
 | Exibicao | `width="22"` | Alinha com a altura da linha de texto |
+| Alinhamento | `align="absmiddle"` | Centraliza a imagem no texto. `align="center"` vira `-webkit-baseline-middle` no Chrome e deixa logo e tag uns 5px abaixo do nome |
 | Espaco antes do nome | `&nbsp;` colado no `>`, sem espaco normal | Espaco normal e ponto de quebra |
 | Cantos | Arredonde no proprio PNG (canal alpha) | O GitHub remove `style`, entao `border-radius` via CSS nao funciona |
 | Fundo | Transparente, ou fundo proprio com contraste | O README e lido em light **e** dark mode |
@@ -53,7 +54,7 @@ Se a logo so funciona em um dos temas, o GitHub suporta troca automatica:
 ```html
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects/x-dark.png">
-  <img src="assets/projects/x-light.png" width="22" align="center">
+  <img src="assets/projects/x-light.png" width="22" align="absmiddle">
 </picture>
 ```
 
