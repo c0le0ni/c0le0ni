@@ -33,6 +33,16 @@ Some of it is for clients, some is mine, and some you can use right now.
 <td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>CSS</kbd> <kbd>npm</kbd></td>
 </tr>
 <tr>
+<td nowrap><img src="assets/projects/scanner.png" width="22" align="center">&nbsp;<b><a href="https://scanner.coleoni.com">Scanner</a></b></td>
+<td>Free SEO scanner: paste a link, get a score from 0 to 100 and what to fix first</td>
+<td><kbd>TypeScript</kbd> <kbd>Hono</kbd> <kbd>Postgres</kbd> <kbd>OpenAI</kbd></td>
+</tr>
+<tr>
+<td nowrap><img src="assets/projects/streak.png" width="22" align="center">&nbsp;<b><a href="https://streak.coleoni.com">Streak</a></b></td>
+<td>Free browser game: follow the green pixel, keep the streak going, play the daily challenge</td>
+<td><kbd>TypeScript</kbd> <kbd>Canvas</kbd> <kbd>Hono</kbd> <kbd>Postgres</kbd></td>
+</tr>
+<tr>
 <td nowrap><img src="assets/projects/trimos.png" width="22" align="center">&nbsp;<b><a href="https://trimos.app">TrimOS</a></b></td>
 <td>Management SaaS for barbershops: schedule, clients, services, billing and an AI assistant</td>
 <td><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Express</kbd> <kbd>MySQL</kbd></td>
