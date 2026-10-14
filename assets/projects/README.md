@@ -20,6 +20,16 @@ Pasta das logos usadas na tabela **Projects** do README do perfil.
 </tr>
 ```
 
+## Tag "open source"
+
+Projeto com codigo publico leva a tag verde ao lado do nome, linkando o repositorio. Cole logo depois do `</a></b>` do nome:
+
+```html
+&nbsp;<a href="https://github.com/c0le0ni/REPO"><img alt="open source" src="assets/projects/open-source.png" width="75" height="18" align="center"></a>
+```
+
+A imagem sai de `scripts/badge.py`. Se mudar o texto, rode de novo e ajuste o `width` (o script imprime o tamanho).
+
 ## Por que a tabela e HTML e nao markdown
 
 Tabela markdown normal nao deixa controlar quebra de linha. Com uma logo pequena ao lado de um nome curto, o navegador separa os dois e joga a logo pra linha de cima assim que a janela aperta. O `nowrap` no `<td>` resolve, e o GitHub aceita esse atributo (testado contra a API de markdown deles). `style="white-space:nowrap"` e `<nobr>` sao removidos pelo sanitizador, entao nao adianta tentar.
